@@ -1,5 +1,4 @@
 📊 E-Commerce Data Analysis using SQL
-
 ---
 📌 Project Overview:
 This project analyzes an e-commerce dataset using SQL to extract meaningful insights about customer behavior, order trends, delivery performance, and payment patterns.
