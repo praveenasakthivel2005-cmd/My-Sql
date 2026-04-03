@@ -1,53 +1,55 @@
 📊 E-Commerce Data Analysis using SQL
 
 ---
-📌 Project Overview:
+📌 Project Overview :
 
 This project analyzes an e-commerce dataset using SQL to extract meaningful insights about customer behavior, order trends, delivery performance, and payment patterns.
 
 ---
-🎯 Objectives:
+🎯 Objectives :
 - Perform Exploratory Data Analysis (EDA)
 - Analyze order trends and seasonality
 - Understand customer distribution across states
 - Evaluate delivery performance
 - Analyze payment methods and installments
 --- 
-🗂️ Dataset:
+🗂️ Dataset :
 The dataset consists of the following tables:
 - customers – Customer details (city, state)
 - orders – Order timestamps and delivery information
 - order_items – Product price and freight value
 - payments – Payment type and installments
 ---
-🔍 Key Analysis:
+🔍 Key Analysis :
   
-📈 Order Trends:
+📈 Order Trends :
 - Monthly order growth
 - Seasonality patterns
 - Orders by time of day
   
-🌍 Customer Analysis:
+🌍 Customer Analysis :
 - State-wise customer distribution
 - Regional order patterns
   
-💰 Business Analysis:
+💰 Business Analysis :
 - Year-over-Year growth (2017 vs 2018)
 - Total and average order value
 - Freight cost analysis
   
-🚚 Delivery Analysis:
+🚚 Delivery Analysis :
 - Delivery time calculation
 - Estimated vs actual delivery comparison
 - Fastest and slowest delivery states
 
-💳 Payment Analysis:
+💳 Payment Analysis :
 - Orders by payment type
 - Payment installments analysis
+  
 ---
-🛠️ Tech Stack:
+🛠️ Tech Stack :
 - SQL (Joins, CTEs, Aggregations, Date Functions)
 - Data Analysis
+  
 ---
   📊 Sample Query:
   
@@ -73,6 +75,7 @@ ORDER BY month;
 ---
 
   🚀 Conclusion:
+  
   This project demonstrates how SQL can be used to transform raw data into actionable insights for better business decision-making in e-commerce.
   
 ---
@@ -83,6 +86,8 @@ ORDER BY month;
 ---
 
 🙌 Acknowledgement:
+
   Feel free to explore, give feedback, and ⭐ the repository if you found it useful!
+  
 ---
   
