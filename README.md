@@ -14,7 +14,9 @@ This project analyzes an e-commerce dataset using SQL to extract meaningful insi
 - Analyze payment methods and installments
 --- 
 🗂️ Dataset :
+
 The dataset consists of the following tables :
+
 - customers – Customer details (city, state)
 - orders – Order timestamps and delivery information
 - order_items – Product price and freight value
