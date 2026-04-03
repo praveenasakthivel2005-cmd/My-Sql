@@ -2,14 +2,14 @@
 
 📌 Project Overview:
 This project analyzes an e-commerce dataset using SQL to extract meaningful insights about customer behavior, order trends, delivery performance, and payment patterns.
-
+---
 🎯 Objectives:
 - Perform Exploratory Data Analysis (EDA)
 - Analyze order trends and seasonality
 - Understand customer distribution across states
 - Evaluate delivery performance
 - Analyze payment methods and installments
-- 
+--- 
 🗂️ Dataset:
 The dataset consists of the following tables:
 - customers – Customer details (city, state)
