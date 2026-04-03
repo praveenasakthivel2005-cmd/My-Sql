@@ -51,7 +51,7 @@ The dataset consists of the following tables:
 ---
   📊 Sample Query:
   
-</> SQL
+```</> SQL
   
 -- Monthly Order Trend
 SELECT DATE_TRUNC(order_purchase_timestamp, MONTH) AS month,
@@ -59,20 +59,29 @@ COUNT(order_id) AS total_orders
 FROM orders
 GROUP BY month
 ORDER BY month;
+```
+
 ---
+
 📌 Key Insights:
 
 - Identified trends in order growth over time
 - Customer distribution varies across states
 - Delivery efficiency differs by region
 - Payment patterns show diverse customer behavior
+  
 ---
+
   🚀 Conclusion:
   This project demonstrates how SQL can be used to transform raw data into actionable insights for better business decision-making in e-commerce.
+  
 ---
+
   🔗 GitHub Repository:
 👉 https://github.com/praveenasakthivel2005-cmd/My-Sql
+
 ---
+
 🙌 Acknowledgement:
   Feel free to explore, give feedback, and ⭐ the repository if you found it useful!
 ---
