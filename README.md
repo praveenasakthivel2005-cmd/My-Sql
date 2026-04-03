@@ -34,10 +34,9 @@ The dataset consists of the following tables:
 - Freight cost analysis
   
 🚚 Delivery Analysis:
-
--Delivery time calculation
--Estimated vs actual delivery comparison
--Fastest and slowest delivery states
+- Delivery time calculation
+- Estimated vs actual delivery comparison
+- Fastest and slowest delivery states
 
 💳 Payment Analysis:
 - Orders by payment type
